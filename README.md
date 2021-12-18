@@ -19,6 +19,8 @@ set GITHUB_TOKEN eg
 setx GITHUB_TOKEN="ghp_etc”
 set GITHUB_USER
 
+To check can use $env:VAR_NAME in PS or echo %VAR_NAME% in cmd
+
 https://www.shellhacks.com/windows-set-environment-variable-cmd-powershell/
 
 ### Flux pre check
